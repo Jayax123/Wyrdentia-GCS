@@ -1,0 +1,153 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "TPgnQdGGQclsgX5FO",
+			"name": "Channeled Casting",
+			"children": [],
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TZbI614FmRAChTqiY",
+			"name": "Chi",
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "T79dflTUL8cepIX2_",
+			"name": "Knowledge Magery",
+			"children": [
+				{
+					"id": "tBHIQZ4BO7n5njR6i",
+					"name": "Knowledge Magery",
+					"reference": "B66",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
+						{
+							"id": "myRfyU6-BUvfUSkyL",
+							"name": "Dance",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "m_U5gB767SwH77ENu",
+							"name": "Dark-Aspected",
+							"cost_adj": "-50%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mJRzip3YB6GiTmDom",
+							"name": "Day-Aspected",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mxeOog7RSrDxXdpej",
+							"name": "Musical",
+							"cost_adj": "-50%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mmRliWy3s4aSqf6us",
+							"name": "Night-Aspected",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mShP2hvKuPKkOfAqP",
+							"name": "One College",
+							"local_notes": "@College@",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mV2c_XITiemcljSba",
+							"name": "Solitary",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mxdWNR7FZOzkymFE9",
+							"name": "Song",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						}
+					],
+					"base_points": 5,
+					"points_per_level": 10,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "st",
+							"amount": 1
+						},
+						{
+							"type": "spell_bonus",
+							"match": "all_colleges",
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "thaumatology"
+							},
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 15,
+						"current_level": 1
+					}
+				}
+			],
+			"calc": {
+				"points": 15
+			}
+		},
+		{
+			"id": "TF3JtWChc1xTsFauy",
+			"name": "Patron Casting",
+			"children": [],
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TlSWMM9vfYX1pcw5S",
+			"name": "Psionics",
+			"children": [],
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TdBoavN7LIHGMPHWI",
+			"name": "Sorcery",
+			"children": [],
+			"calc": {
+				"points": 0
+			}
+		}
+	]
+}
