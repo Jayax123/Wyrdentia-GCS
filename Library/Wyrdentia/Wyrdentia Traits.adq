@@ -1,0 +1,642 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "tc155uMtbbEVqSjro",
+			"name": "Channeled Casting",
+			"local_notes": "@Domain@",
+			"tags": [
+				"Advantage",
+				"Mental",
+				"Supernatural"
+			],
+			"modifiers": [
+				{
+					"id": "mYNGGUZs00y9SCvDB",
+					"name": "Spell Slots",
+					"cost_adj": "+3",
+					"levels": 1,
+					"disabled": true
+				},
+				{
+					"id": "mwpUrwEYQpJPWDM95",
+					"name": "Holy Might",
+					"cost_adj": "+50%",
+					"use_level_from_trait": true,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"tags": {
+								"compare": "contains",
+								"qualifier": "Imbue"
+							},
+							"amount": 0.5,
+							"per_level": true
+						}
+					],
+					"disabled": true
+				}
+			],
+			"points_per_level": 10,
+			"features": [
+				{
+					"type": "spell_bonus",
+					"match": "college_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Channeled"
+					},
+					"amount": 1
+				}
+			],
+			"can_level": true,
+			"levels": 1,
+			"calc": {
+				"points": 10,
+				"current_level": 1
+			}
+		},
+		{
+			"id": "tTNcNKzyuFTXRDeme",
+			"name": "Chi Mastery",
+			"tags": [
+				"Advantage",
+				"Mental"
+			],
+			"points_per_level": 15,
+			"features": [
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Sensitivity"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Mind Block"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Mental Strength"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Meditation"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Lizard Climb"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Light Walk"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Immovable Stance"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Dreaming"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Breath Control"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Body Sense"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Body Language"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Body Control"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Blind Fighting"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Autohypnosis"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Zen Archery"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Throwing Art"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Push"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Pressure Secrets"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Pressure Points"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Precognitive Parry"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Power Blow"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Kiai"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Invisibility Art"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Hypnotism"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Hypnotic Hands"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Hypnotic Hands"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Flying Leap"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Erotic Art"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Breaking Blow"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"tags": {
+						"compare": "contains",
+						"qualifier": "Imbue"
+					},
+					"amount": 1,
+					"per_level": true
+				}
+			],
+			"can_level": true,
+			"levels": 1,
+			"calc": {
+				"points": 15,
+				"current_level": 1
+			}
+		},
+		{
+			"id": "tjBe2-a-mMTRa7DGb",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set/Basic Set Traits.adq",
+				"id": "tpnv8EEpAS6Er2pwK"
+			},
+			"name": "Knowledge Magery",
+			"tags": [
+				"Advantage",
+				"Mental",
+				"Supernatural"
+			],
+			"modifiers": [
+				{
+					"id": "m1B2K2qMkNotHNGu3",
+					"name": "Dance",
+					"cost_adj": "-40%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mSsRANICZer8YmJoW",
+					"name": "Dark-Aspected",
+					"cost_adj": "-50%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mtKo8W9nJY7w1gfSV",
+					"name": "Day-Aspected",
+					"cost_adj": "-40%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mY8nZWmIkM2avc4rH",
+					"name": "Musical",
+					"cost_adj": "-50%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mj9yXMPtAFJS1VCfp",
+					"name": "Night-Aspected",
+					"cost_adj": "-40%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mf4TeTFm4IQ2NTOZV",
+					"name": "One College",
+					"local_notes": "@College@",
+					"cost_adj": "-40%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mzRXEZ-VGt8S5DNao",
+					"name": "Solitary",
+					"cost_adj": "-40%",
+					"affects": "levels_only",
+					"disabled": true
+				},
+				{
+					"id": "mYSSFkK3u16wj8gn1",
+					"name": "Song",
+					"cost_adj": "-40%",
+					"affects": "levels_only",
+					"disabled": true
+				}
+			],
+			"base_points": 5,
+			"points_per_level": 10,
+			"features": [
+				{
+					"type": "spell_bonus",
+					"match": "college_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Patron"
+					},
+					"amount": -1,
+					"per_level": true
+				},
+				{
+					"type": "spell_bonus",
+					"match": "college_name",
+					"name": {
+						"compare": "does_not_contain",
+						"qualifier": "Channeled"
+					},
+					"amount": 1,
+					"per_level": true
+				},
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "thaumatology"
+					},
+					"amount": 1,
+					"per_level": true
+				}
+			],
+			"can_level": true,
+			"levels": 1,
+			"calc": {
+				"points": 15,
+				"current_level": 1
+			}
+		},
+		{
+			"id": "tvqjXoYzTD9hm3jFn",
+			"name": "Potion Tolerance",
+			"tags": [
+				"Advantage",
+				"Physical"
+			],
+			"modifiers": [
+				{
+					"id": "mbwtPbHsiWsyytRp3",
+					"name": "Potion Immunity",
+					"cost_adj": "+400%",
+					"disabled": true
+				}
+			],
+			"points_per_level": 1,
+			"features": [
+				{
+					"type": "conditional_modifier",
+					"situation": "To HT rolls when resisting potion toxins",
+					"amount": 1,
+					"per_level": true
+				}
+			],
+			"can_level": true,
+			"levels": 1,
+			"calc": {
+				"points": 1,
+				"current_level": 1
+			}
+		},
+		{
+			"id": "tOCPGmfhxH148kgHB",
+			"name": "Patron Casting",
+			"local_notes": "@Domain@",
+			"tags": [
+				"Advantage",
+				"Mental",
+				"Supernatural"
+			],
+			"points_per_level": 30,
+			"can_level": true,
+			"levels": 1,
+			"calc": {
+				"points": 30,
+				"current_level": 1
+			}
+		},
+		{
+			"id": "TpQbqqBlxBM8XQd5L",
+			"name": "Sorcery",
+			"container_type": "alternative_abilities",
+			"children": [
+				{
+					"id": "tpEOPsTlOOQaDKnE7",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Thaumatology/Thaumatology - Sorcery Traits.adq",
+						"id": "t7ua9r_tAVyY63u0x"
+					},
+					"name": "Sorcerous Empowerment",
+					"reference": "TSOR4",
+					"tags": [
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
+						{
+							"id": "m1fDmFs9usKL1vAtM",
+							"name": "Limited Colleges (1 College) (@College@)",
+							"reference": "TSOR4",
+							"cost_adj": "-40%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mquiJVKDdsOlWK1ej",
+							"name": "Limited Colleges (2 Colleges) (@Colleges@)",
+							"reference": "TSOR4",
+							"cost_adj": "-30%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mXHkqMzQrnejYj6i3",
+							"name": "Limited Colleges (3 Colleges) (@Colleges@)",
+							"reference": "TSOR4",
+							"cost_adj": "-20%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "m92CEtaSUmtqzncOS",
+							"name": "Limited Colleges (4 Colleges) (@Colleges@)",
+							"reference": "TSOR4",
+							"cost_adj": "-10%",
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mtj_QKkrmMeKBuOFN",
+							"name": "Limited Scope",
+							"reference": "TSOR4",
+							"local_notes": "The GM may limit Sorcerous Empowerment in a way that doesn't line up with normal colleges",
+							"cost_adj": "-20%",
+							"disabled": true
+						}
+					],
+					"base_points": 10,
+					"points_per_level": 10,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 20,
+						"current_level": 1
+					}
+				},
+				{
+					"id": "tOEifOYLi1Ko1IKlF",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Thaumatology/Thaumatology - Sorcery Traits.adq",
+						"id": "tiKraUo_3ORnyMp-F"
+					},
+					"name": "Sorcery Talent",
+					"reference": "TSOR5",
+					"tags": [
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
+						{
+							"id": "mjROxrnb7PO0DyCYI",
+							"name": "Limited",
+							"cost_adj": "x0.5",
+							"disabled": true
+						}
+					],
+					"points_per_level": 10,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 10,
+						"current_level": 1
+					}
+				}
+			],
+			"calc": {
+				"points": 22
+			}
+		}
+	]
+}

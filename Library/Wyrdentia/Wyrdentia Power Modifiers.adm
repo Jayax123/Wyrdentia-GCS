@@ -1,0 +1,25 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "mSRlugLyC1W7nbQcU",
+			"name": "Bard-Song",
+			"cost_adj": "-30%"
+		},
+		{
+			"id": "mQrF3ntiWD5-4B_I-",
+			"name": "Chi",
+			"cost_adj": "-10%"
+		},
+		{
+			"id": "m_tLEulpR2ox6HuOc",
+			"name": "Holy",
+			"cost_adj": "-10%"
+		},
+		{
+			"id": "mveVFI8u7ravVJfyV",
+			"name": "Magic",
+			"cost_adj": "-10%"
+		}
+	]
+}
