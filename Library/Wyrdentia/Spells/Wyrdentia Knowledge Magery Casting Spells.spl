@@ -65,7 +65,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -81,7 +81,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -173,7 +173,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-Magery",
+			"casting_cost": "1-knowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -204,7 +204,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -220,7 +220,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -305,7 +305,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -321,7 +321,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -592,7 +592,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -608,7 +608,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -799,7 +799,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -815,7 +815,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -831,7 +831,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -1095,7 +1095,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -1111,7 +1111,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -1570,7 +1570,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -1586,7 +1586,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -1740,7 +1740,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -1756,7 +1756,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -2463,7 +2463,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -2479,7 +2479,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -2870,7 +2870,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -2886,7 +2886,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3026,7 +3026,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -3042,7 +3042,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -3283,7 +3283,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3299,7 +3299,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3394,7 +3394,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3410,7 +3410,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3426,7 +3426,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3536,7 +3536,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3552,7 +3552,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3620,7 +3620,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3636,7 +3636,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3690,7 +3690,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3706,7 +3706,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3911,7 +3911,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -3927,7 +3927,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4400,7 +4400,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4416,7 +4416,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4541,7 +4541,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4557,7 +4557,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4610,7 +4610,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4626,7 +4626,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4896,7 +4896,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4912,7 +4912,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -4928,7 +4928,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5024,7 +5024,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5040,7 +5040,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5285,7 +5285,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5301,7 +5301,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5380,7 +5380,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5396,7 +5396,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5476,7 +5476,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5492,7 +5492,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5545,7 +5545,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5561,7 +5561,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5736,7 +5736,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5752,7 +5752,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -5768,7 +5768,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6086,7 +6086,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6102,7 +6102,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6343,7 +6343,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6359,7 +6359,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6495,7 +6495,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6511,7 +6511,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6548,7 +6548,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "2-2xMagery",
+			"casting_cost": "2-2xknowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -6726,7 +6726,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6742,7 +6742,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6954,7 +6954,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -6970,7 +6970,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7217,7 +7217,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7233,7 +7233,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7371,7 +7371,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7387,7 +7387,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7587,7 +7587,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7603,7 +7603,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7976,7 +7976,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -7992,7 +7992,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -8092,7 +8092,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -8108,7 +8108,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -8273,7 +8273,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -8289,7 +8289,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -8522,7 +8522,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -8538,7 +8538,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -8675,7 +8675,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -8691,7 +8691,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9019,7 +9019,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9035,7 +9035,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9114,7 +9114,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9130,7 +9130,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9205,7 +9205,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9221,7 +9221,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9463,7 +9463,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9479,7 +9479,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9644,7 +9644,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9660,7 +9660,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9713,7 +9713,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -9729,7 +9729,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10050,7 +10050,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -10066,7 +10066,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -10229,7 +10229,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10245,7 +10245,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10513,7 +10513,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10529,7 +10529,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10722,7 +10722,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10738,7 +10738,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10817,7 +10817,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10833,7 +10833,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -10969,7 +10969,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -10985,7 +10985,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -11146,7 +11146,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -11162,7 +11162,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -11520,7 +11520,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -11536,7 +11536,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -11664,7 +11664,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -11680,7 +11680,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -11696,7 +11696,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -12789,7 +12789,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -12805,7 +12805,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -12868,7 +12868,7 @@
 				"path": "Library/Magic/Magic Spells.spl",
 				"id": "pJx6UAbDt33O_t0XB"
 			},
-			"name": "Drain Magery",
+			"name": "Drain knowledge magery",
 			"reference": "M130",
 			"tags": [
 				"Meta"
@@ -12879,7 +12879,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Regular",
-			"resist": "Will+Magery",
+			"resist": "Will+knowledge magery",
 			"casting_cost": "30",
 			"maintenance_cost": "-",
 			"casting_time": "10 min",
@@ -12895,7 +12895,7 @@
 						"has": true,
 						"qualifier": {
 							"compare": "is",
-							"qualifier": "suspend magery"
+							"qualifier": "suspend knowledge magery"
 						},
 						"quantity": {
 							"compare": "at_least",
@@ -12911,7 +12911,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -12927,7 +12927,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13694,7 +13694,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13710,7 +13710,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13778,7 +13778,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13794,7 +13794,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13810,7 +13810,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13935,7 +13935,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -13951,7 +13951,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14032,7 +14032,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14048,7 +14048,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14064,7 +14064,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14157,7 +14157,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14173,7 +14173,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14226,7 +14226,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14242,7 +14242,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14401,7 +14401,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14417,7 +14417,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14514,7 +14514,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14530,7 +14530,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14641,7 +14641,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14657,7 +14657,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14911,7 +14911,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -14927,7 +14927,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15006,7 +15006,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15022,7 +15022,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15477,7 +15477,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15493,7 +15493,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15605,7 +15605,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15621,7 +15621,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15800,7 +15800,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15816,7 +15816,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -15864,7 +15864,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "2-2xMagery#",
+			"casting_cost": "2-2xknowledge magery#",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -15942,7 +15942,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "2-2xMagery",
+			"casting_cost": "2-2xknowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -16049,7 +16049,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16065,7 +16065,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16202,7 +16202,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16218,7 +16218,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16382,7 +16382,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -16398,7 +16398,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -16478,7 +16478,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16494,7 +16494,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16589,7 +16589,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16605,7 +16605,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16621,7 +16621,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -16854,7 +16854,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -16870,7 +16870,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -17057,7 +17057,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-Magery",
+			"casting_cost": "1-knowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -17075,7 +17075,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17091,7 +17091,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17336,7 +17336,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17352,7 +17352,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17477,7 +17477,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17493,7 +17493,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17618,7 +17618,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17634,7 +17634,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17758,7 +17758,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17774,7 +17774,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -17844,7 +17844,7 @@
 										"has": true,
 										"name": {
 											"compare": "is",
-											"qualifier": "magery"
+											"qualifier": "knowledge magery"
 										},
 										"level": {
 											"compare": "at_least",
@@ -17860,7 +17860,7 @@
 										"has": true,
 										"name": {
 											"compare": "is",
-											"qualifier": "magery"
+											"qualifier": "knowledge magery"
 										},
 										"level": {
 											"compare": "at_least",
@@ -18013,7 +18013,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18029,7 +18029,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18122,7 +18122,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18138,7 +18138,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18275,7 +18275,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18291,7 +18291,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18866,7 +18866,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -18882,7 +18882,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -19765,7 +19765,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -19781,7 +19781,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -19848,7 +19848,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -19864,7 +19864,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -19939,7 +19939,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -19955,7 +19955,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -20079,7 +20079,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -20095,7 +20095,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -20158,7 +20158,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -20174,7 +20174,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21162,7 +21162,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21178,7 +21178,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21301,7 +21301,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21317,7 +21317,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21373,7 +21373,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21389,7 +21389,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21405,7 +21405,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21511,7 +21511,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-Magery",
+			"casting_cost": "1-knowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -21644,7 +21644,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-Magery",
+			"casting_cost": "1-knowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -21738,7 +21738,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21754,7 +21754,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21910,7 +21910,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -21926,7 +21926,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -22352,7 +22352,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -22368,7 +22368,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -22384,7 +22384,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23434,7 +23434,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23450,7 +23450,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23679,7 +23679,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23695,7 +23695,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23791,7 +23791,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23807,7 +23807,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23939,7 +23939,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -23955,7 +23955,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24085,7 +24085,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24101,7 +24101,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24154,7 +24154,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24170,7 +24170,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24263,7 +24263,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24279,7 +24279,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24462,7 +24462,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24478,7 +24478,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24494,7 +24494,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24798,7 +24798,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-Magery",
+			"casting_cost": "1-knowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -24816,7 +24816,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24832,7 +24832,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -24848,7 +24848,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -25146,7 +25146,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -25162,7 +25162,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -25178,7 +25178,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -25453,7 +25453,7 @@
 										"has": true,
 										"name": {
 											"compare": "is",
-											"qualifier": "magery"
+											"qualifier": "knowledge magery"
 										},
 										"level": {
 											"compare": "at_least",
@@ -25469,7 +25469,7 @@
 										"has": true,
 										"name": {
 											"compare": "is",
-											"qualifier": "magery"
+											"qualifier": "knowledge magery"
 										},
 										"level": {
 											"compare": "at_least",
@@ -25601,7 +25601,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -25617,7 +25617,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -26321,7 +26321,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -26337,7 +26337,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -26355,7 +26355,7 @@
 						"has": true,
 						"name": {
 							"compare": "contains",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -26388,7 +26388,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Regular",
-			"resist": "Will+Magery",
+			"resist": "Will+knowledge magery",
 			"casting_cost": "1-5",
 			"maintenance_cost": "Same",
 			"casting_time": "3 sec",
@@ -26416,7 +26416,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -26432,7 +26432,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -26646,7 +26646,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -26662,7 +26662,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -27682,7 +27682,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -27698,7 +27698,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28229,7 +28229,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28245,7 +28245,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28541,7 +28541,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28557,7 +28557,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28712,7 +28712,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28728,7 +28728,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28960,7 +28960,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -28976,7 +28976,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29056,7 +29056,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29072,7 +29072,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29232,7 +29232,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29248,7 +29248,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29544,7 +29544,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29560,7 +29560,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29681,7 +29681,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29697,7 +29697,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29765,7 +29765,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29781,7 +29781,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29858,7 +29858,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29874,7 +29874,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29928,7 +29928,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -29944,7 +29944,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30055,7 +30055,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30071,7 +30071,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30150,7 +30150,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30166,7 +30166,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30317,7 +30317,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30333,7 +30333,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30462,7 +30462,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30478,7 +30478,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30572,7 +30572,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30588,7 +30588,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30686,7 +30686,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30702,7 +30702,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30933,7 +30933,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -30949,7 +30949,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -31633,7 +31633,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -31649,7 +31649,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -31899,7 +31899,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -31915,7 +31915,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32246,7 +32246,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32262,7 +32262,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32355,7 +32355,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32371,7 +32371,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32477,7 +32477,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32493,7 +32493,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32560,7 +32560,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32576,7 +32576,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32690,7 +32690,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32706,7 +32706,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32722,7 +32722,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32913,7 +32913,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32929,7 +32929,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -32945,7 +32945,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33027,7 +33027,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33043,7 +33043,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33059,7 +33059,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33112,7 +33112,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33128,7 +33128,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33207,7 +33207,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33223,7 +33223,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33676,7 +33676,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33692,7 +33692,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33892,7 +33892,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33908,7 +33908,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -33986,7 +33986,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -34002,7 +34002,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -34157,7 +34157,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -34173,7 +34173,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -34452,7 +34452,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -34468,7 +34468,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35141,7 +35141,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35157,7 +35157,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35269,7 +35269,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35285,7 +35285,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35478,7 +35478,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35494,7 +35494,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35740,7 +35740,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35756,7 +35756,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -35772,7 +35772,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36006,7 +36006,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36022,7 +36022,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36146,7 +36146,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36162,7 +36162,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36215,7 +36215,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36231,7 +36231,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36697,7 +36697,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -36713,7 +36713,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37031,7 +37031,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37047,7 +37047,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37361,7 +37361,7 @@
 										"has": true,
 										"name": {
 											"compare": "is",
-											"qualifier": "magery"
+											"qualifier": "knowledge magery"
 										},
 										"level": {
 											"compare": "at_least",
@@ -37377,7 +37377,7 @@
 										"has": true,
 										"name": {
 											"compare": "is",
-											"qualifier": "magery"
+											"qualifier": "knowledge magery"
 										},
 										"level": {
 											"compare": "at_least",
@@ -37459,7 +37459,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37475,7 +37475,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37851,7 +37851,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37867,7 +37867,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37953,7 +37953,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -37969,7 +37969,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38124,7 +38124,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38140,7 +38140,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38258,7 +38258,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -38274,7 +38274,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -38414,7 +38414,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38430,7 +38430,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38541,7 +38541,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38557,7 +38557,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38831,7 +38831,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -38847,7 +38847,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39087,7 +39087,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39103,7 +39103,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39284,7 +39284,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39300,7 +39300,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39385,7 +39385,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39401,7 +39401,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39913,7 +39913,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -39929,7 +39929,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -40027,7 +40027,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -40043,7 +40043,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -40697,7 +40697,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -40713,7 +40713,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -40913,7 +40913,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -40929,7 +40929,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41084,7 +41084,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41100,7 +41100,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41249,7 +41249,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41265,7 +41265,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41318,7 +41318,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41334,7 +41334,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41439,7 +41439,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41455,7 +41455,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41510,7 +41510,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41526,7 +41526,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41676,7 +41676,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41692,7 +41692,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41802,7 +41802,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -41818,7 +41818,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42058,7 +42058,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42074,7 +42074,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42211,7 +42211,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-Magery",
+			"casting_cost": "1-knowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -42362,7 +42362,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42378,7 +42378,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42516,7 +42516,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42532,7 +42532,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42659,7 +42659,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42675,7 +42675,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42731,7 +42731,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42747,7 +42747,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -42763,7 +42763,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43234,7 +43234,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43250,7 +43250,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43303,7 +43303,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43319,7 +43319,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43464,7 +43464,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43480,7 +43480,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43533,7 +43533,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43549,7 +43549,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43757,7 +43757,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43773,7 +43773,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43909,7 +43909,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43925,7 +43925,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -43960,7 +43960,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Missile",
-			"casting_cost": "1-3xMagery",
+			"casting_cost": "1-3xknowledge magery",
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
@@ -44067,7 +44067,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44083,7 +44083,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44172,7 +44172,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44188,7 +44188,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44256,7 +44256,7 @@
 				"path": "Library/Magic/Magic Spells.spl",
 				"id": "pPcLDJ01xeoZiwemD"
 			},
-			"name": "Suspend Magery",
+			"name": "Suspend knowledge magery",
 			"reference": "M130",
 			"tags": [
 				"Meta"
@@ -44267,7 +44267,7 @@
 			],
 			"power_source": "Arcane",
 			"spell_class": "Regular",
-			"resist": "Will+Magery",
+			"resist": "Will+knowledge magery",
 			"casting_cost": "12",
 			"maintenance_cost": "Same",
 			"casting_time": "10 sec",
@@ -44304,7 +44304,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44320,7 +44320,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44493,7 +44493,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44509,7 +44509,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44576,7 +44576,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44592,7 +44592,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44840,7 +44840,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -44856,7 +44856,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45026,7 +45026,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45042,7 +45042,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45058,7 +45058,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45482,7 +45482,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45498,7 +45498,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45514,7 +45514,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45791,7 +45791,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45807,7 +45807,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45886,7 +45886,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -45902,7 +45902,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -46445,7 +46445,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -46461,7 +46461,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -46573,7 +46573,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -46589,7 +46589,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47072,7 +47072,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47088,7 +47088,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47270,7 +47270,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47286,7 +47286,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47629,7 +47629,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47645,7 +47645,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -47929,7 +47929,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -47945,7 +47945,7 @@
 						"has": true,
 						"name": {
 							"compare": "is",
-							"qualifier": "magery"
+							"qualifier": "knowledge magery"
 						},
 						"level": {
 							"compare": "at_least",
@@ -48503,7 +48503,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -48519,7 +48519,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -48612,7 +48612,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -48628,7 +48628,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -49172,7 +49172,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -49188,7 +49188,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -49656,7 +49656,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
@@ -49672,7 +49672,7 @@
 								"has": true,
 								"name": {
 									"compare": "is",
-									"qualifier": "magery"
+									"qualifier": "knowledge magery"
 								},
 								"level": {
 									"compare": "at_least",
