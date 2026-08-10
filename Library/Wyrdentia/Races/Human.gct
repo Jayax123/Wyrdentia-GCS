@@ -70,27 +70,6 @@
 					}
 				},
 				{
-					"id": "t92qrluwEN4xtjz0V",
-					"source": {
-						"library": "richardwilkes/gcs_master_library",
-						"path": "Basic Set/Basic Set Traits.adq",
-						"id": "tToKVITWIFSZIRkXK"
-					},
-					"name": "Herpetophobia (Reptiles)",
-					"reference": "B150",
-					"local_notes": "You come unglued at the thought of reptiles, amphibians, and similar scaly slimies. A very large reptile, or a poisonous one, gives -2 to self-control rolls; a horde of reptiles (such as a snake pit) gives -4.",
-					"tags": [
-						"Disadvantage",
-						"Mental"
-					],
-					"cr_adj": "action_penalty",
-					"cr": 12,
-					"base_points": -10,
-					"calc": {
-						"points": -10
-					}
-				},
-				{
 					"id": "tFs9oQ1CcZNvMAVAH",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
@@ -327,10 +306,31 @@
 					"calc": {
 						"points": 25
 					}
+				},
+				{
+					"id": "tbCxXCTG92VLZ5h-y",
+					"source": {
+						"library": "/gcs_user_library",
+						"path": "Library/Basic Set/Basic Set Traits.adq",
+						"id": "tJusm03XASEmePVLU"
+					},
+					"name": "Teratophobia (Monsters)",
+					"reference": "B150",
+					"local_notes": "Any “unnatural” creature sets off this fear. You have -1 to -4 on the self-control roll if the monster seems very large or dangerous, or if there are a lot of them. Note that the definition of “monster” depends on experience. An American Indian would consider an elephant monstrous, while an African pygmy would not!",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr_adj": "action_penalty",
+					"cr": 12,
+					"base_points": -15,
+					"calc": {
+						"points": -15
+					}
 				}
 			],
 			"calc": {
-				"points": 25
+				"points": 20
 			}
 		}
 	],
