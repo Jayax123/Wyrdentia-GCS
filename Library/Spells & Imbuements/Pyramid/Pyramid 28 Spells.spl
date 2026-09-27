@@ -1,0 +1,23 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "pWCDRzp94kXM9Ggux",
+			"name": "Internalize Elixir",
+			"reference": "PY28:10",
+			"tags": [
+				"Meta"
+			],
+			"difficulty": "iq/h",
+			"college": [
+				"Meta"
+			],
+			"power_source": "Arcane",
+			"spell_class": "Special",
+			"casting_cost": "2 per $500 or the elixir being bound",
+			"casting_time": "1 min/elixir",
+			"duration": "Permanent until elixir is used",
+			"points": 1
+		}
+	]
+}

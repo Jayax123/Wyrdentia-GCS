@@ -1,0 +1,623 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "FM0zJPKjKbytYbphr",
+			"name": "Armor",
+			"local_notes": "Meteoric and Orichalcum are mutually exclusive",
+			"children": [
+				{
+					"id": "fz1Y6TSD5_fkN7TTd",
+					"name": "Armor for Giants",
+					"cost_type": "to_final_cost",
+					"weight_type": "to_final_weight",
+					"cost": "x2",
+					"weight": "x2"
+				},
+				{
+					"id": "fzCj1NVe1ndu-TcUz",
+					"name": "Fine",
+					"reference": "DF1:27",
+					"tags": [
+						"Armor"
+					],
+					"cost_type": "to_base_cost",
+					"weight_type": "to_base_weight",
+					"cost": "+9 CF",
+					"weight": "x3/4"
+				},
+				{
+					"id": "FC1flU71wiGecDnko",
+					"name": "For Hard Leather only",
+					"children": [
+						{
+							"id": "fWjYSe0oI0_gR9Qyk",
+							"name": "Dragonhide 1",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+37 CF",
+							"weight": "x1.25",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 1
+								}
+							]
+						},
+						{
+							"id": "f4_D-uKJmf-sPtFh2",
+							"name": "Dragonhide 2",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+44 CF",
+							"weight": "x1.5",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 2
+								}
+							]
+						},
+						{
+							"id": "ftC1P3dc26AH8_Fgv",
+							"name": "Dragonhide 3",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+52 CF",
+							"weight": "x1.75",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 3
+								}
+							]
+						},
+						{
+							"id": "f4IDa-OY0LEOgLb-N",
+							"name": "Dragonhide 4",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+59 CF",
+							"weight": "x2",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 4
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "FaMKFOuYS7Hc8vf-x",
+					"name": "For Light Cloth armor only",
+					"children": [
+						{
+							"id": "fqNxCACSuiMzdX9T0",
+							"name": "Giant-Spider Silk",
+							"reference": "DF1:30",
+							"local_notes": "Allows this armor to be worn under other armor without -1 to DX for layering",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+99 CF",
+							"weight": "+0 lb",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "FTkYRY00F0aLxgqr9",
+					"name": "For Mail only",
+					"children": [
+						{
+							"id": "ftlQYJ4b3tkKG7-E2",
+							"name": "Elven",
+							"reference": "DF1:30",
+							"cost_type": "to_base_cost",
+							"cost": "+3 CF",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"specialization": "crushing",
+									"amount": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "F276iL90YqxgRRWGm",
+					"name": "For metal armor only",
+					"children": [
+						{
+							"id": "f_8iyQxdRTIoFNi8t",
+							"name": "Meteoric",
+							"reference": "DF1:30",
+							"local_notes": "Immune to magic (see DF1 p. 27)",
+							"cost_type": "to_base_cost",
+							"cost": "+19 CF"
+						}
+					]
+				},
+				{
+					"id": "F84mCYiXZVPH4jlHO",
+					"name": "For Plate and Brigandine only",
+					"children": [
+						{
+							"id": "fTbNUmij7WA_MbbbC",
+							"name": "Dwarven 1",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+1 CF",
+							"weight": "x1.2",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 1
+								}
+							]
+						},
+						{
+							"id": "fS6YHpUG_rWJjvRTX",
+							"name": "Dwarven 2",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+2 CF",
+							"weight": "x1.4",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 2
+								}
+							]
+						},
+						{
+							"id": "feCaortmK7ogjF2T5",
+							"name": "Dwarven 3",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+3 CF",
+							"weight": "x1.6",
+							"features": [
+								{
+									"type": "dr_bonus",
+									"amount": 3
+								}
+							]
+						},
+						{
+							"id": "fPPN08Q_OOwaDJVMi",
+							"name": "Orichalcum",
+							"reference": "DF1:30",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"weight_type": "to_base_weight",
+							"cost": "+29 CF",
+							"weight": "x1/3"
+						},
+						{
+							"id": "fp6w6sTS--5tIm5N9",
+							"name": "Spiked",
+							"reference": "DF1:30",
+							"local_notes": "Every turn, roll DX-4 to stab each enemy in close combat with you as a free action; success deals 1d-2 imp damage; In addition, anyone who strikes such armor with an unarmed attack takes this damage to the attacking body part — and if the attack is a bite, grapple, or anything under Slams, Tramples, and Overruns (DFX40), the attacker suffers 4 points of damage",
+							"tags": [
+								"Armor"
+							],
+							"cost_type": "to_base_cost",
+							"cost": "+2 CF"
+						}
+					]
+				},
+				{
+					"id": "fxoryPzZonxU8SnQM",
+					"name": "Thieves’",
+					"reference": "DF1:30",
+					"local_notes": "Blackened; May not be Ornate; After adding this to your armor, edit the armor and enable the \"Ignore weight for skills\" checkbox",
+					"tags": [
+						"Armor"
+					],
+					"cost_type": "to_base_cost",
+					"cost": "+3 CF"
+				}
+			]
+		},
+		{
+			"id": "Fq2VwSw6Fs2SddBRc",
+			"name": "General",
+			"children": [
+				{
+					"id": "fJrA8pe2fervvhNMa",
+					"name": "Ornate 1",
+					"reference": "DF1:30",
+					"tags": [
+						"Armor",
+						"General",
+						"Shields",
+						"Weapons"
+					],
+					"cost_type": "to_base_cost",
+					"cost": "+1 CF",
+					"weight": "+0 lb",
+					"features": [
+						{
+							"type": "reaction_bonus",
+							"amount": 1
+						}
+					]
+				},
+				{
+					"id": "fFclq_qV7732UNo7z",
+					"name": "Ornate 2",
+					"reference": "DF1:30",
+					"tags": [
+						"Armor",
+						"General",
+						"Shields",
+						"Weapons"
+					],
+					"cost_type": "to_base_cost",
+					"cost": "+4 CF",
+					"features": [
+						{
+							"type": "reaction_bonus",
+							"amount": 2
+						}
+					]
+				},
+				{
+					"id": "ftj1WHzj1S-7xw-TH",
+					"name": "Ornate 3",
+					"reference": "DF1:30",
+					"tags": [
+						"Armor",
+						"General",
+						"Shields",
+						"Weapons"
+					],
+					"cost_type": "to_base_cost",
+					"cost": "+9 CF",
+					"features": [
+						{
+							"type": "reaction_bonus",
+							"amount": 3
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "FahsWjIVqxk0yWCdi",
+			"name": "Shields",
+			"reference": "DF1:30",
+			"local_notes": "Dwarven, Meteoric, and Orichalcum are mutually exclusive",
+			"children": [
+				{
+					"id": "f7DHihpSGIsR7OkJc",
+					"name": "Dwarven",
+					"reference": "DF1:30",
+					"local_notes": "Fireproof; Made from iron instead of wood",
+					"tags": [
+						"Shields"
+					],
+					"cost_type": "to_base_cost",
+					"weight_type": "to_base_weight",
+					"cost": "+4 CF",
+					"weight": "x2",
+					"features": [
+						{
+							"type": "weapon_bonus",
+							"selection_type": "this_weapon",
+							"name": {
+								"compare": "is"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shield Rush"
+							},
+							"level": {
+								"compare": "at_least"
+							},
+							"amount": 1
+						},
+						{
+							"type": "weapon_bonus",
+							"selection_type": "this_weapon",
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shield Bash"
+							},
+							"amount": 1
+						}
+					]
+				},
+				{
+					"id": "FJMuBRBENBddiXEXR",
+					"name": "For Dwarven, Meteoric, or Orichalcum shields only",
+					"children": [
+						{
+							"id": "fMZXtqwQ3-XYqzdJj",
+							"name": "Mirrored",
+							"reference": "DF1:30",
+							"local_notes": "Target of a reflected gaze gets +3 to resist",
+							"tags": [
+								"Shields"
+							],
+							"cost_type": "to_base_cost",
+							"cost": "+2 CF"
+						}
+					]
+				},
+				{
+					"id": "FrjTkE8mY9lAA1xmq",
+					"name": "For Medium or Large Shields only",
+					"children": [
+						{
+							"id": "fow9884SUPt9sULEO",
+							"name": "Shield Lectern",
+							"reference": "DF1:30",
+							"tags": [
+								"Combat Accessories",
+								"Shields"
+							],
+							"cost_type": "to_final_cost",
+							"weight_type": "to_final_weight",
+							"cost": "+50",
+							"weight": "+2 lb"
+						}
+					]
+				},
+				{
+					"id": "FvrmaY8LL4RnmFIt7",
+					"name": "For non-Dwarven, -Meteoric, and -Orichalcum shields only",
+					"children": [
+						{
+							"id": "f2Mh1OFk3F5UQZim5",
+							"name": "Mirrored",
+							"reference": "DF1:30",
+							"local_notes": "Target of a reflected gaze gets +3 to resist",
+							"tags": [
+								"Shields"
+							],
+							"cost_type": "to_base_cost",
+							"cost": "+6 CF"
+						}
+					]
+				},
+				{
+					"id": "fiwStdsKa4EUjN8Ef",
+					"name": "Meteoric",
+					"reference": "DF1:30",
+					"local_notes": "Fireproof; Immune to magic",
+					"tags": [
+						"Shields"
+					],
+					"cost_type": "to_base_cost",
+					"weight_type": "to_base_weight",
+					"cost": "+99 CF",
+					"weight": "x2",
+					"features": [
+						{
+							"type": "weapon_bonus",
+							"selection_type": "this_weapon",
+							"name": {
+								"compare": "is"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shield Rush"
+							},
+							"level": {
+								"compare": "at_least"
+							},
+							"amount": 1
+						},
+						{
+							"type": "weapon_bonus",
+							"selection_type": "this_weapon",
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shield Bash"
+							},
+							"amount": 1
+						}
+					]
+				},
+				{
+					"id": "fdK4odr1mjscjid-t",
+					"name": "Orichalcum",
+					"reference": "DF1:30",
+					"local_notes": "Fireproof; +2 to odds of breakage of non-Orichalcum weapons parrying a Shield Bash or Shield Rush",
+					"tags": [
+						"Shields"
+					],
+					"cost_type": "to_base_cost",
+					"weight_type": "to_base_weight",
+					"cost": "+149 CF",
+					"weight": "x2/3"
+				}
+			]
+		},
+		{
+			"id": "Fc6JMlt4YcQeLnlf2",
+			"name": "Weapons",
+			"reference": "DF1:30",
+			"local_notes": "Meteoric, Orichalcum, and solid Silver are mutually exclusive; Fine, Very Fine, and solid Silver are mutually exclusive",
+			"children": [
+				{
+					"id": "fAIR704yH7UOvfkfI",
+					"name": "Dwarven",
+					"reference": "DFA106",
+					"tags": [
+						"Weapons"
+					],
+					"cost_type": "to_base_cost",
+					"cost": "+4 CF",
+					"features": [
+						{
+							"type": "weapon_switch",
+							"selection_type": "this_weapon",
+							"switch_type": "unbalanced",
+							"name": {
+								"compare": "is"
+							},
+							"level": {
+								"compare": "at_least"
+							},
+							"amount": 1
+						}
+					]
+				},
+				{
+					"id": "Ff6EbzrwadgYgZq9X",
+					"name": "For bow only",
+					"children": [
+						{
+							"id": "fuzbrI5RilBBQto3B",
+							"name": "Elven",
+							"reference": "DFA106",
+							"local_notes": "Lets a bow shoot at +2 to ST for range and damage purposes without increasing its minimum ST (manually adjust Rated ST)",
+							"tags": [
+								"Weapons"
+							],
+							"cost_type": "to_base_cost",
+							"cost": "+16 CF",
+							"features": [
+								{
+									"type": "weapon_min_st_bonus",
+									"selection_type": "weapons_with_required_skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Bow"
+									},
+									"amount": -2
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "Fixiuro7rzes3bNfJ",
+					"name": "For crossbow only",
+					"children": [
+						{
+							"id": "fZm6CTTCK7pf3e_Ke",
+							"name": "Crossbow Sight",
+							"reference": "DFA113",
+							"local_notes": "Add +1 Acc (manually adjust)",
+							"tags": [
+								"Combat Accessories",
+								"Weapons"
+							],
+							"cost_type": "to_final_base_cost",
+							"weight_type": "to_final_base_weight",
+							"cost": "+100",
+							"weight": "+1 lb"
+						},
+						{
+							"id": "fo35cgJoyPdJmMRQR",
+							"name": "Crossbow Sling",
+							"reference": "DFA113",
+							"local_notes": "Totes a loaded crossbow hands free; Free action to sling",
+							"tags": [
+								"Combat Accessories",
+								"Weapons"
+							],
+							"cost_type": "to_final_base_cost",
+							"weight_type": "to_final_base_weight",
+							"cost": "+200",
+							"weight": "+2 lb"
+						}
+					]
+				},
+				{
+					"id": "FD2fJ4Ujag3vLKkMk",
+					"name": "For metal weapons only",
+					"children": [
+						{
+							"id": "fOj6injoBzJq4aqnm",
+							"name": "Meteoric",
+							"reference": "DFA106",
+							"local_notes": "Immune to magic",
+							"tags": [
+								"Weapons"
+							],
+							"cost_type": "to_base_cost",
+							"cost": "+19 CF"
+						},
+						{
+							"id": "fjYtKOcCWMvoM8skz",
+							"name": "Orichalcum",
+							"reference": "DFA106",
+							"local_notes": "Won't break; +2 to odds of breakage of non-orichalcum weapons parrying this weapon",
+							"tags": [
+								"Weapons"
+							],
+							"cost_type": "to_base_cost",
+							"cost": "+29 CF"
+						}
+					]
+				},
+				{
+					"id": "fqYp4_M_uxbUd4PEJ",
+					"name": "Weapon For Giant",
+					"cost_type": "to_final_cost",
+					"weight_type": "to_final_weight",
+					"cost": "x1.5",
+					"weight": "x1.5",
+					"features": [
+						{
+							"type": "weapon_bonus",
+							"percent": true,
+							"selection_type": "this_weapon",
+							"name": {
+								"compare": "is"
+							},
+							"level": {
+								"compare": "at_least"
+							},
+							"amount": 50
+						}
+					]
+				}
+			]
+		}
+	]
+}

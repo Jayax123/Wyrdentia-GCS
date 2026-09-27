@@ -4,22 +4,52 @@
 		{
 			"id": "tc155uMtbbEVqSjro",
 			"name": "Channeled Casting",
-			"local_notes": "@Domain@",
 			"tags": [
 				"Advantage",
 				"Mental",
 				"Supernatural"
 			],
+			"replacements": {
+				"Domain": ""
+			},
 			"modifiers": [
 				{
-					"id": "mm6-QOgUSrIy53P1k",
-					"name": "Spell Slots",
-					"cost_adj": "+3",
+					"id": "mf6dfSIq0CBi7EwRq",
+					"name": "@Domain@ Domain",
+					"local_notes": "Duplicate this for multiple domains, and change the substitution to something else. Set level to what you are adding to the domain.",
+					"features": [
+						{
+							"type": "spell_bonus",
+							"match": "college_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@Domain@ Domain"
+							},
+							"amount": 1,
+							"per_level": true
+						}
+					]
+				},
+				{
+					"id": "moZnEUc8wouiwu4bI",
+					"name": "@sub-college@",
+					"disabled": true
+				},
+				{
+					"id": "mlGHFgepNrQSJ0jKP",
+					"name": "Large Portfolio",
+					"cost_adj": "+20%",
 					"levels": 1,
 					"disabled": true
 				},
 				{
-					"id": "mVpYqzPj5Ukx1Dzvk",
+					"id": "m139mqe-O4agxqHce",
+					"name": "Divine Crafstman",
+					"cost_adj": "+50%",
+					"disabled": true
+				},
+				{
+					"id": "m84V-ownDANRo-oV3",
 					"name": "Holy Might",
 					"cost_adj": "+50%",
 					"use_level_from_trait": true,
@@ -34,7 +64,8 @@
 							"amount": 0.5,
 							"per_level": true
 						}
-					]
+					],
+					"disabled": true
 				}
 			],
 			"points_per_level": 10,
@@ -52,7 +83,7 @@
 			"can_level": true,
 			"levels": 1,
 			"calc": {
-				"points": 15,
+				"points": 10,
 				"current_level": 1
 			}
 		},

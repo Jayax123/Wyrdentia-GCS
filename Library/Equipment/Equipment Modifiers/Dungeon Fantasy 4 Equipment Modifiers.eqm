@@ -1,0 +1,64 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "FM0zJPKjKbytYbphr",
+			"name": "Armor And Clothing",
+			"reference": "DF4:8",
+			"children": [
+				{
+					"id": "fz1Y6TSD5_fkN7TTd",
+					"name": "SM -1",
+					"weight_type": "to_final_weight",
+					"cost": "+0",
+					"weight": "x1/2",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"amount": -1
+						}
+					]
+				},
+				{
+					"id": "ffw2hmdQRRAyN6C_A",
+					"name": "SM -2",
+					"weight_type": "to_final_weight",
+					"cost": "+0",
+					"weight": "x1/2",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"amount": -2
+						}
+					]
+				},
+				{
+					"id": "fAbdIbkA7ErL1KhNf",
+					"name": "SM -4",
+					"weight_type": "to_final_weight",
+					"cost": "+0",
+					"weight": "x1/20",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"amount": -3
+						}
+					]
+				},
+				{
+					"id": "fQj-sLRFGVf4wbfAB",
+					"name": "SM -6",
+					"weight_type": "to_final_weight",
+					"cost": "+0",
+					"weight": "x1/100",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"amount": -6
+						}
+					]
+				}
+			]
+		}
+	]
+}
