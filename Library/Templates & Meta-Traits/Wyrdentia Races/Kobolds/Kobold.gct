@@ -1,0 +1,702 @@
+{
+	"version": 5,
+	"id": "B7sqT7YNjrnfACwfd",
+	"traits": [
+		{
+			"id": "T6by2MI66shgy2plP",
+			"name": "Kobold",
+			"reference": "DF3:7",
+			"ancestry": "Human",
+			"container_type": "ancestry",
+			"children": [
+				{
+					"id": "tW9XLmPVh1kGEy7l2",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "t5LlXpm2lmMK5KcVN"
+					},
+					"name": "Blunt Claws",
+					"reference": "B42,MA42",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"base_points": 3,
+					"weapons": [
+						{
+							"id": "w_aqxe5sB1AzsPD1l",
+							"sv": 1,
+							"damage": {
+								"type": "cr",
+								"st": "thr",
+								"base": "-1",
+								"modifier_per_die": 1
+							},
+							"usage": "Punch",
+							"reach": "C",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx"
+								},
+								{
+									"type": "skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Brawling"
+									}
+								},
+								{
+									"type": "skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Boxing"
+									}
+								},
+								{
+									"type": "skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Karate"
+									}
+								}
+							],
+							"calc": {
+								"damage": "thr-1 (+1 per die) cr"
+							}
+						},
+						{
+							"id": "wiAw9jM_YB3-pgFRy",
+							"sv": 1,
+							"damage": {
+								"type": "cr",
+								"st": "thr",
+								"modifier_per_die": 1
+							},
+							"usage": "Kick",
+							"reach": "C,1",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Brawling"
+									},
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Karate"
+									},
+									"modifier": -2
+								}
+							],
+							"calc": {
+								"damage": "thr (+1 per die) cr"
+							}
+						}
+					],
+					"calc": {
+						"points": 3
+					}
+				},
+				{
+					"id": "tTpf2XfeJN8WW-_sB",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tsHSzoJhgVSPSXqNY"
+					},
+					"name": "Cowardice",
+					"reference": "B129",
+					"local_notes": "Make a self-control roll any time you are called on to risk physical danger. Roll at -5 if you must risk death.",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr_adj": "fright_check_penalty",
+					"cr": 9,
+					"base_points": -10,
+					"calc": {
+						"points": -15
+					}
+				},
+				{
+					"id": "tvehxuw6TwaiGBOVO",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tEFtRoCNBxTe9vjsG"
+					},
+					"name": "Dark Vision",
+					"reference": "B47,P46",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"modifiers": [
+						{
+							"id": "mowu5SPduOj5xw3QI",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "Basic Set/Basic Set Traits.adq",
+								"id": "mY3BablhCVGozM1VO"
+							},
+							"name": "Can see colors in the dark",
+							"cost_adj": "20%",
+							"disabled": true
+						},
+						{
+							"id": "msqGwk5MNROkFVrN7",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "Basic Set/Basic Set Traits.adq",
+								"id": "mXyWfjF4DHYvXYrnE"
+							},
+							"name": "Hypersensory",
+							"reference": "P46",
+							"cost_adj": "40%",
+							"disabled": true
+						}
+					],
+					"base_points": 25,
+					"calc": {
+						"points": 25
+					}
+				},
+				{
+					"id": "t-MajdriWL-6NIVgX",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "t9JmDbmYS-RXMN3vt"
+					},
+					"name": "Decreased Size Modifier",
+					"reference": "B19",
+					"tags": [
+						"Attribute",
+						"Disadvantage",
+						"Physical"
+					],
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "sm",
+							"amount": -1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 0,
+						"current_level": 1
+					}
+				},
+				{
+					"id": "t294H4pwuZTOQzcNS",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "thI3hK3riuknUwkHF"
+					},
+					"name": "Decreased Strength",
+					"reference": "B14",
+					"tags": [
+						"Attribute",
+						"Disadvantage",
+						"Physical"
+					],
+					"points_per_level": -10,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "st",
+							"amount": -1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 2,
+					"calc": {
+						"points": -20,
+						"current_level": 2
+					}
+				},
+				{
+					"id": "twE1HUnZwLBgIgsDi",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tMA9_2yoV8Czd7arj"
+					},
+					"name": "Decreased Will",
+					"reference": "B16",
+					"tags": [
+						"Attribute",
+						"Disadvantage",
+						"Mental"
+					],
+					"points_per_level": -5,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "will",
+							"amount": -1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": -5,
+						"current_level": 1
+					}
+				},
+				{
+					"id": "tXccChwMeH3ne4WUR",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tsIfS0jZqdshsDFOM"
+					},
+					"name": "Extra Fatigue Points",
+					"reference": "B16",
+					"tags": [
+						"Advantage",
+						"Attribute",
+						"Physical"
+					],
+					"points_per_level": 3,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "fp",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 3,
+						"current_level": 1
+					}
+				},
+				{
+					"id": "tsCJ6zCRl1gDqxtgn",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tGWOSEE6SmBHACE6Y"
+					},
+					"name": "Increased Dexterity",
+					"reference": "B15",
+					"tags": [
+						"Advantage",
+						"Attribute",
+						"Physical"
+					],
+					"modifiers": [
+						{
+							"id": "mxvg6xPIkFpQyz3GS",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "Basic Set/Basic Set Traits.adq",
+								"id": "mGNK9-KVdILSggamo"
+							},
+							"name": "No Fine Manipulators",
+							"cost_adj": "-40%",
+							"disabled": true
+						}
+					],
+					"points_per_level": 20,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "dx",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 20,
+						"current_level": 1
+					}
+				},
+				{
+					"id": "tf7-6pFn-k-a0R68_",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tK9Ov0WtlrhnJFy5n"
+					},
+					"name": "Sharp Teeth",
+					"reference": "B91",
+					"tags": [
+						"Exotic",
+						"Perk",
+						"Physical"
+					],
+					"modifiers": [
+						{
+							"id": "m_EKvQxpsLzuXyzdH",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "Basic Set/Basic Set Traits.adq",
+								"id": "m9Cs9KQhl2woTNxXn"
+							},
+							"name": "Provided by Vampiric Bite",
+							"reference": "B96",
+							"cost_adj": "-1",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"weapons": [
+						{
+							"id": "wrTQFeOKv-IPf5fKO",
+							"sv": 1,
+							"damage": {
+								"type": "cut",
+								"st": "thr",
+								"base": "-1"
+							},
+							"usage": "Bite",
+							"reach": "C",
+							"defaults": [
+								{
+									"type": "skill",
+									"name": {
+										"compare": "is",
+										"qualifier": "Brawling"
+									}
+								},
+								{
+									"type": "dx"
+								}
+							],
+							"calc": {
+								"damage": "thr-1 cut"
+							}
+						}
+					],
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "tU1An_nlTssBK1i32",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "toHMEtXUwB6kUvwsU"
+					},
+					"name": "Talent (@Small@)",
+					"reference": "B89",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Talent"
+					],
+					"replacements": {
+						"Small": "Kobold",
+						"reaction bonus situation": "All mining personnel",
+						"skill1": "Explosives",
+						"skill2": "Filch",
+						"skill3": "Prospecting",
+						"skill4": "Sleight of Hand",
+						"skill5": "Traps",
+						"skill6": "Engineer (Mining)"
+					},
+					"modifiers": [
+						{
+							"id": "meQ4juoyyEKfEervS",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "Basic Set/Basic Set Traits.adq",
+								"id": "mj1UGxMZXKlNHGjqT"
+							},
+							"name": "Alternate Benefit",
+							"local_notes": "@Alternate Benefit@",
+							"disabled": true
+						},
+						{
+							"id": "mfAxX0dmAr-WI_3cE",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "Basic Set/Basic Set Traits.adq",
+								"id": "mbcFy_qGUjE2_newI"
+							},
+							"name": "Alternative Cost",
+							"affects": "levels_only",
+							"disabled": true
+						}
+					],
+					"points_per_level": 5,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@skill1@"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@skill2@"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@skill3@"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@skill4@"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@skill5@"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "@skill6@"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "reaction_bonus",
+							"situation": "@reaction bonus situation@",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 3,
+					"calc": {
+						"points": 15,
+						"current_level": 3
+					}
+				},
+				{
+					"id": "tKZy_pFdXhVZtphkf",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set/Basic Set Traits.adq",
+						"id": "tu0KYjUBLw84B4gKc"
+					},
+					"name": "Trickster",
+					"reference": "B159",
+					"local_notes": "Make a self-control roll each day. If you fail, you must try to trick a dangerous subject: a skilled warrior, a dangerous monster, a whole group of reasonably competent opponents, etc. If you resist, you get a cumulative -1 per day to your self-control roll until you finally fail a roll!",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr": 15,
+					"base_points": -15,
+					"calc": {
+						"points": -7
+					}
+				},
+				{
+					"id": "tk1Y45kel0GoNqcYW",
+					"name": "Wyrdentia Common Race",
+					"base_points": -10,
+					"calc": {
+						"points": -10
+					}
+				}
+			],
+			"calc": {
+				"points": 10
+			}
+		}
+	],
+	"body_type": {
+		"name": "Humanoid",
+		"roll": "3d",
+		"locations": [
+			{
+				"id": "eye",
+				"choice_name": "Eyes",
+				"table_name": "Eyes",
+				"hit_penalty": -9,
+				"description": "An attack that misses by 1 hits the torso instead. Only\nimpaling (imp), piercing (pi-, pi, pi+, pi++), and\ntight-beam burning (burn) attacks can target the eye – and\nonly from the front or sides. Injury over HP÷10 blinds the\neye. Otherwise, treat as skull, but without the extra DR!",
+				"calc": {
+					"roll_range": "-"
+				}
+			},
+			{
+				"id": "skull",
+				"choice_name": "Skull",
+				"table_name": "Skull",
+				"slots": 2,
+				"hit_penalty": -7,
+				"dr_bonus": 2,
+				"description": "An attack that misses by 1 hits the torso instead. Wounding\nmodifier is x4. Knockdown rolls are at -10. Critical hits\nuse the Critical Head Blow Table (B556). Exception: These\nspecial effects do not apply to toxic (tox) damage.",
+				"calc": {
+					"roll_range": "3-4"
+				}
+			},
+			{
+				"id": "face",
+				"choice_name": "Face",
+				"table_name": "Face",
+				"slots": 1,
+				"hit_penalty": -5,
+				"description": "An attack that misses by 1 hits the torso instead. Jaw,\ncheeks, nose, ears, etc. If the target has an open-faced\nhelmet, ignore its DR. Knockdown rolls are at -5. Critical\nhits use the Critical Head Blow Table (B556). Corrosion\n(cor) damage gets a x1½ wounding modifier, and if it\ninflicts a major wound, it also blinds one eye (both eyes on\ndamage over full HP). Random attacks from behind hit the\nskull instead.",
+				"calc": {
+					"roll_range": "5"
+				}
+			},
+			{
+				"id": "leg",
+				"choice_name": "Leg",
+				"table_name": "Right Leg",
+				"slots": 2,
+				"hit_penalty": -2,
+				"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost.",
+				"calc": {
+					"roll_range": "6-7"
+				}
+			},
+			{
+				"id": "arm",
+				"choice_name": "Arm",
+				"table_name": "Right Arm",
+				"slots": 1,
+				"hit_penalty": -2,
+				"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost. If holding a shield,\ndouble the penalty to hit: -4 for shield arm instead of -2.",
+				"calc": {
+					"roll_range": "8"
+				}
+			},
+			{
+				"id": "torso",
+				"choice_name": "Torso",
+				"table_name": "Torso",
+				"slots": 2,
+				"calc": {
+					"roll_range": "9-10"
+				}
+			},
+			{
+				"id": "groin",
+				"choice_name": "Groin",
+				"table_name": "Groin",
+				"slots": 1,
+				"hit_penalty": -3,
+				"description": "An attack that misses by 1 hits the torso instead. Human\nmales and the males of similar species suffer double shock\nfrom crushing (cr) damage, and get -5 to knockdown rolls.\nOtherwise, treat as a torso hit.",
+				"calc": {
+					"roll_range": "11"
+				}
+			},
+			{
+				"id": "arm",
+				"choice_name": "Arm",
+				"table_name": "Left Arm",
+				"slots": 1,
+				"hit_penalty": -2,
+				"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost. If holding a shield,\ndouble the penalty to hit: -4 for shield arm instead of -2.",
+				"calc": {
+					"roll_range": "12"
+				}
+			},
+			{
+				"id": "leg",
+				"choice_name": "Leg",
+				"table_name": "Left Leg",
+				"slots": 2,
+				"hit_penalty": -2,
+				"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost.",
+				"calc": {
+					"roll_range": "13-14"
+				}
+			},
+			{
+				"id": "hand",
+				"choice_name": "Hand",
+				"table_name": "Hand",
+				"slots": 1,
+				"hit_penalty": -4,
+				"description": "If holding a shield, double the penalty to hit: -8 for\nshield hand instead of -4. Reduce the wounding multiplier of\nlarge piercing (pi+), huge piercing (pi++), and impaling\n(imp) damage to x1. Any major wound (loss of over ⅓ HP\nfrom one blow) cripples the extremity. Damage beyond that\nthreshold is lost.",
+				"calc": {
+					"roll_range": "15"
+				}
+			},
+			{
+				"id": "foot",
+				"choice_name": "Foot",
+				"table_name": "Foot",
+				"slots": 1,
+				"hit_penalty": -4,
+				"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ⅓ HP from one blow) cripples the\nextremity. Damage beyond that threshold is lost.",
+				"calc": {
+					"roll_range": "16"
+				}
+			},
+			{
+				"id": "neck",
+				"choice_name": "Neck",
+				"table_name": "Neck",
+				"slots": 2,
+				"hit_penalty": -5,
+				"description": "An attack that misses by 1 hits the torso instead. Neck and\nthroat. Increase the wounding multiplier of crushing (cr)\nand corrosion (cor) attacks to x1½, and that of cutting\n(cut) damage to x2. At the GM’s option, anyone killed by a\ncutting (cut) blow to the neck is decapitated!",
+				"calc": {
+					"roll_range": "17-18"
+				}
+			},
+			{
+				"id": "vitals",
+				"choice_name": "Vitals",
+				"table_name": "Vitals",
+				"hit_penalty": -3,
+				"description": "An attack that misses by 1 hits the torso instead. Heart,\nlungs, kidneys, etc. Increase the wounding modifier for an\nimpaling (imp) or any piercing (pi-, pi, pi+, pi++) attack\nto x3. Increase the wounding modifier for a tight-beam\nburning (burn) attack to x2. Other attacks cannot target the\nvitals.",
+				"calc": {
+					"roll_range": "-"
+				}
+			}
+		]
+	}
+}

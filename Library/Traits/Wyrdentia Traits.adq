@@ -31,11 +31,6 @@
 					]
 				},
 				{
-					"id": "moZnEUc8wouiwu4bI",
-					"name": "@sub-college@",
-					"disabled": true
-				},
-				{
 					"id": "mlGHFgepNrQSJ0jKP",
 					"name": "Large Portfolio",
 					"cost_adj": "+20%",
@@ -569,6 +564,7 @@
 			"id": "TpQbqqBlxBM8XQd5L",
 			"name": "Sorcery",
 			"container_type": "alternative_abilities",
+			"alternative_slots": 1,
 			"children": [
 				{
 					"id": "tpEOPsTlOOQaDKnE7",
